@@ -10,6 +10,8 @@ namespace UebungBedingungen
     {
         static void Main(string[] args)
         {
+            // Schreibe ein Programm, welches von der Konsole ein Zeichen einliest und ausgibt,
+            // das es sich um eine gerade, ungerade Zahl oder ein Zeichen handelt.
         }
     }
 }
